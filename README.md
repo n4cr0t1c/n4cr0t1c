@@ -1,16 +1,23 @@
-## Hi there 👋
+# n4cr0t1c | m19
 
-<!--
-**n4cr0t1c/n4cr0t1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NOTHING'S PERSONAL**
 
-Here are some ideas to get you started:
+## 🌐 What I DO?
+- Computer networking
+- Tool development, analysis, exploitation
+- ICS / SCADA research & security
+- Quantum Computing. Networking
+- Reverse Shells
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- ![Python](https://img.shields.io/badge/-Python-informational?logo=python&color=3776AB)
+- ![C](https://img.shields.io/badge/-C-informational?logo=c&color=A8B9CC)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?logo=javascript&color=F7DF1E&logoColor=black)
+- ![Bash](https://img.shields.io/badge/-Bash-informational?logo=gnubash&color=4EAA25)
+- ![PowerShell](https://img.shields.io/badge/-PowerShell-informational?logo=powershell&color=5391FE)
+- CLI environments
+
+---
+
+If your interests align, proceed.
