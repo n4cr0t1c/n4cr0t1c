@@ -1,7 +1,5 @@
 # n4cr0t1c | m19
 
-**NOTHING'S PERSONAL**
-
 ## 🌐 What I DO?
 - Secure Software Development
 - Low Level APIs
